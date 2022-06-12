@@ -1,0 +1,65 @@
+{
+  "id": "3247734",
+  "name": "ego",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "201578",
+      "name": "3.1订单",
+      "font_class": "31dingdan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "201644",
+      "name": "3.1 全部商品",
+      "font_class": "31quanbushangpin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "629343",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "1068869",
+      "name": "6-销量",
+      "font_class": "6xiaoliang",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "825093",
+      "name": "累计收入",
+      "font_class": "leijishouru",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1133834",
+      "name": "支出",
+      "font_class": "zhichu",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "21777263",
+      "name": "盈利统计",
+      "font_class": "yinglitongji",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "5387873",
+      "name": "开关_o",
+      "font_class": "kaiguan_o",
+      "unicode": "eb7a",
+      "unicode_decimal": 60282
+    }
+  ]
+}
